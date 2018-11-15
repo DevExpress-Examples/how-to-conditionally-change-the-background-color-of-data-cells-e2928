@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/ChangeRowAppearance/MainPage.xaml) (VB: [MainPage.xaml](./VB/ChangeRowAppearance/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/ChangeRowAppearance/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/ChangeRowAppearance/MainPage.xaml))
+<!-- default file list end -->
 # How to Conditionally Change the Background Color of Data Cells
 
 
