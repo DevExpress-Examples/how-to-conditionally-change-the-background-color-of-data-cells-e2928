@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/ChangeRowAppearance/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/ChangeRowAppearance/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/ChangeRowAppearance/MainPage.xaml) (VB: [MainPage.xaml](./VB/ChangeRowAppearance/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/ChangeRowAppearance/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ChangeRowAppearance/MainPage.xaml.vb))
 * [Products.cs](./CS/ChangeRowAppearance/Products.cs) (VB: [Products.vb](./VB/ChangeRowAppearance/Products.vb))
 <!-- default file list end -->
